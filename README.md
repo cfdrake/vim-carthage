@@ -1,4 +1,6 @@
 # vim-carthage
+![vim-carthage](http://colindrake.me/i/vim-carthage.png)
+
 `vim-carthage` is a plugin that highlights Carthage configuration files for Vim.
 
 ## Usage
