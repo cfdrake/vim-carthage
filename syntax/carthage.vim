@@ -11,7 +11,7 @@ endif
 syntax keyword carthageKeyword git github
 
 " Version numbers
-syn match carthageNumber '\v\d+\.\d+\.\d+'
+syn match carthageNumber '\v\d+(\.\d+){,2}'
 
 " Comments
 syntax match carthageComment "\v#.*$"
