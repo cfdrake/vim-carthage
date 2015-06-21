@@ -7,6 +7,10 @@
 To install using NeoBundle:
 
     NeoBundle 'cfdrake/vim-carthage'
+    
+To install using Vundle:
+
+    Plugin 'cfdrake/vim-carthage'
 
 ## License
 Copyright (c) 2015 Colin Drake
