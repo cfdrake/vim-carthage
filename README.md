@@ -12,6 +12,11 @@ To install using Vundle:
 
     Plugin 'cfdrake/vim-carthage'
 
+To install using Pathogen:
+
+    cd ~/.vim/bundle
+    git clone git@github.com:cfdrake/vim-carthage.git
+
 ## License
 Copyright (c) 2015 Colin Drake
 
