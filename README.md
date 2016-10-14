@@ -4,10 +4,14 @@
 `vim-carthage` is a plugin that highlights Carthage configuration files for Vim.
 
 ## Usage
+To install using Plug:
+
+    Plug 'cfdrake/vim-carthage'
+
 To install using NeoBundle:
 
     NeoBundle 'cfdrake/vim-carthage'
-    
+
 To install using Vundle:
 
     Plugin 'cfdrake/vim-carthage'
