@@ -8,7 +8,7 @@ if exists("b:current_syntax")
 endif
 
 " Keywords
-syntax keyword carthageKeyword git github
+syntax keyword carthageKeyword git github binary
 
 " Version numbers
 syn match carthageNumber '\v\d+(\.\d+){,2}'
